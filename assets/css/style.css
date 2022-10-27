@@ -205,3 +205,7 @@ p {
 	text-transform: uppercase;
 	margin-top: 15px;
 }
+
+body > div > div.sidebar > div.avatar > h1:hover:after {
+	content : 'failure';
+}
